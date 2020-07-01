@@ -14,6 +14,7 @@ class prime_numbers:
             if prime == True:
                 print("%d " % i, end='')
             prime = True
+        print()
 
 
 
